@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Carpet { // 카펫
+public class Carpet { //카펫
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("카펫에서 본 갈색 격자의 수를 입력하세요 (8 이상 5000 이하인 자연수 중 하나로 입력) >>> ");
